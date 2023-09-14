@@ -1,0 +1,53 @@
+[
+    {
+      "id": "1",
+      "cover": "cover1.jpg",
+      "title": "Lorem Ipsum Dolor Sit Amet",
+      "author": "John Doe",
+      "author_img": "author1.jpg",
+      "posted_date": "2023-09-15",
+      "reading_time": "10 min",
+      "hashtags": ["Lorem", "Ipsum", "Dolor"]
+    },
+    {
+      "id": "2",
+      "cover": "cover2.jpg",
+      "title": "A Guide to JSON Data Generation",
+      "author": "Jane Smith",
+      "author_img": "author2.jpg",
+      "posted_date": "2023-09-14",
+      "reading_time": "15 min",
+      "hashtags": ["JSON", "Data", "Guide"]
+    },
+    {
+      "id": "3",
+      "cover": "cover3.jpg",
+      "title": "Exploring AI and Machine Learning",
+      "author": "David Johnson",
+      "author_img": "author3.jpg",
+      "posted_date": "2023-09-13",
+      "reading_time": "12 min",
+      "hashtags": ["AI", "Machine Learning", "Technology"]
+    },
+    {
+      "id": "4",
+      "cover": "cover4.jpg",
+      "title": "Cooking Adventures: Recipes to Try",
+      "author": "Emily Brown",
+      "author_img": "author4.jpg",
+      "posted_date": "2023-09-12",
+      "reading_time": "20 min",
+      "hashtags": ["Cooking", "Recipes", "Food"]
+    },
+    {
+      "id": "5",
+      "cover": "cover5.jpg",
+      "title": "Travel Diaries: A Journey Around the World",
+      "author": "Michael Wilson",
+      "author_img": "author5.jpg",
+      "posted_date": "2023-09-11",
+      "reading_time": "25 min",
+      "hashtags": ["Travel", "Adventure", "Explore"]
+    }
+  ]
+  
